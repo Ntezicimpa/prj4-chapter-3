@@ -1,4 +1,18 @@
-h1 {color: rosybrown}
-h3 {color: goldenrod; text-decoration: underline}
-#me {text-decoration: underline; color: darkgrey}
-.My-class {align-content: center; background:#B5D5E8}
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+h1 
+{color: rosybrown; font-size: 24}
+h3
+{color: goldenrod; 
+	text-decoration: underline}
+#me
+{ background-image: image("2690.jpg")}
+.my-class
+{align-content: center;
+	background:#B5D5E8; 
+	border: solid}
+.image
+{align-content: center; 
+	width: 200; 
+	height: 200}
+.my-container 
+{Padding: 10px}
