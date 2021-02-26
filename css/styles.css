@@ -7,11 +7,6 @@ h3
 {color: goldenrod; 
 	text-decoration: underline
 }
-#me {
-background-image:url("../images/css_background.png");
-	align-items: center;
-	text-align: center
-}
 .my-class
 {align-content: center;
 	background:#B5D5E8; 
@@ -28,4 +23,7 @@ background-image:url("../images/css_background.png");
 {Padding: 10px}
 body {font-family: 'Hind Siliguri', sans-serif;
 	font-family: 'Montserrat', sans-serif;
+	background-image:url("../images/css_background.png");
+	align-items: center;
+	text-align: center
 }
