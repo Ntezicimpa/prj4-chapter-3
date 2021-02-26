@@ -7,6 +7,11 @@ h3
 {color: goldenrod; 
 	text-decoration: underline
 }
+#me {
+background-image:url("../images/css_background.png");
+	align-items: center;
+	text-align: center
+}
 .my-class
 {align-content: center;
 	background:#B5D5E8; 
