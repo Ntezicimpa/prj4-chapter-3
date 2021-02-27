@@ -24,12 +24,11 @@ background-image:url("../images/css_background.png");
   margin-right: auto;
   width: 50%;
 }
-.my-container 
-{Padding: 25px 50px;
-}
 body {font-family: 'Hind Siliguri', sans-serif;
 	font-family: 'Montserrat', sans-serif;
 	background-image:url("../images/css_background.png");
 	align-items: center;
-	text-align: center
+	text-align: center;
+	padding: 25px 50px;
+
 }
